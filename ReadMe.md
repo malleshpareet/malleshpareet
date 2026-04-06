@@ -10,9 +10,6 @@
   <img src="https://streak-stats.demolab.com?user=malleshpareet&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malleshpareet&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
